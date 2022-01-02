@@ -7,7 +7,7 @@ Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 
 ### Install dependencies
-2)$./gradlew clean build
+2) gradlew clean build
 
 
 ## Tester Api in Swagger UI:
