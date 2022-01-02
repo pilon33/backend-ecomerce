@@ -11,9 +11,8 @@ Linkedin https://www.linkedin.com/in/jose-francisco-valdez-282a1b1a/
 
 ## Tester Api in Swagger UI:
 Swagger UI: http://localhost:8080/swagger-ui.html
-
-![image](https://user-images.githubusercontent.com/12847173/147890876-3d27de1e-a496-4e15-80eb-36186e809205.png)
-![image](https://user-images.githubusercontent.com/12847173/147890880-cdb01a31-1dd2-4258-a2d4-19d5499ce9fb.png)
+![image](https://user-images.githubusercontent.com/12847173/147891526-aee3ed9a-34d3-4ba9-b4a6-be49743fcd85.png)
+![image](https://user-images.githubusercontent.com/12847173/147891534-06efa21e-f561-4c4f-8b83-78865237ca44.png)
 
 ## Postman products:
 POST http://localhost:8080/products
