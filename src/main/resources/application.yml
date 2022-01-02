@@ -7,10 +7,10 @@ spring:
     console:
       enabled: true
   datasource:
-    url: jdbc:h2:mem:tul-shopping-cart
+    url: jdbc:h2:mem:cart-shopp
     driver-class-name: org.h2.Driver
-    username: admin
-    password: admin
+    username: sa
+    password: sa
 
 value-divider: 2
 
